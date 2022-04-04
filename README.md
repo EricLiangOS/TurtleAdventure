@@ -1,2 +1,2 @@
 # TurtleAdventure
-A randomly generated maze-like game with power-ups and a leaderboard
+Embark on an epic journey through this maze-like game, collecting powerups that will help you along your journey. Each game features a randomly generated labyrinth for you to traverse through, with walls as well as powerups scattered throughout the corridors. However, pick your path wisely, as you can't go back to a square you previous stepped on (unless you use a powerup). These powerups, including lasers, teleports, and path-clears, can help you carve your path through the maze. Each block destroyed and square stepped contributes to your overall score, which you can use to compete with your friends or yourself. Can you reach the end golden beacon at the end of this Turtle Adventure?
